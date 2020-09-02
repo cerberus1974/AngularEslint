@@ -14,6 +14,7 @@ module.exports = {
    * have complete control over what gets included and we can maximize performance
    */
   parserOptions: {
+    sourceType: "module",
     project: './tsconfig.eslint.json',
   },
 
