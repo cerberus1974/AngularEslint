@@ -48,5 +48,8 @@
     "protractor": "~7.0.0",
     "ts-node": "~8.3.0",
     "typescript": "~3.9.5"
-  }
+  },
+  "eslintIgnore": [
+    "/.eslintrc.js"
+  ]
 }
